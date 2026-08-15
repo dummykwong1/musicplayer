@@ -1,13 +1,14 @@
 {
-  "name": "旅遊記帳 Travel Ledger",
-  "short_name": "旅遊記帳",
-  "description": "家人出國旅遊即時同步記帳 PWA",
+  "name": "J.Law Music Player",
+  "short_name": "J.Law Music",
+  "description": "本地音樂播放器 · 支援資料夾匯入、歌詞、睡眠計時與離線使用",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
-  "orientation": "portrait-primary",
-  "background_color": "#fafafa",
-  "theme_color": "#18181b",
+  "orientation": "any",
+  "background_color": "#000000",
+  "theme_color": "#fa233b",
+  "lang": "zh-TW",
   "icons": [
     {
       "src": "icon-192.png",
