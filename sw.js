@@ -3,7 +3,7 @@
    Local music files are never cached (they stay in memory/File objects).
 */
 
-const CACHE_NAME = 'jlaw-music-v2';
+const CACHE_NAME = 'jlaw-music-v4';
 const APP_SHELL = [
   './',
   './index.html',
